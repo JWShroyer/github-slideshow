@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+![Dank Meme](https://i.imgur.com/uOq5Vqy.gif)
 Use the left arrow to go back!
